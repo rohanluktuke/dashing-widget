@@ -1,0 +1,8 @@
+{
+"stops" :	
+[
+	{"RouteID":"70", "DirectionText":"North to Silver Spring Station", "DirectionNum":"0", "Minutes":0, "VehicleID":"6409", "TripID":"8846414"},
+	{"RouteID":"74", "DirectionText":"North to Convention Center", "DirectionNum":"0", "Minutes":0, "VehicleID":"3023", "TripID":"8847310"},
+	{"RouteID":"74", "DirectionText":"North to Convention Center", "DirectionNum":"0", "Minutes":13, "VehicleID":"3018", "TripID":"8847309"}
+]
+}
