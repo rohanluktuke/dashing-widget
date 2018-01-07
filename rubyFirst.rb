@@ -31,6 +31,9 @@ stops.each do |stop|
 	puts stop['Minutes']
 end
 
+puts JSON.generate(stops[0])
+
+
 #https://www.youtube.com/watch?v=Dji9ALCgfpM
 # 07/13/2016
 #Primary key0b30a24a9d3d46ccbf0f4da7364cb6f6
